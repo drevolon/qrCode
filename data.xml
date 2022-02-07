@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfQrCodeData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <qrCodeData>
+    <INN>7705401340</INN>
+    <KPP>590343001</KPP>
+    <NameOrganizatiom>УФК по Пермскому краю (филиал ФГБУ «ФКП Росреестра» по Пермскому краю л/с 20566У86680)</NameOrganizatiom>
+    <BIK>015773997</BIK>
+    <KorScore>40102810145370000048</KorScore>
+    <NameBank>Отделение Пермь</NameBank>
+    <CheckingAccount>03214643000000015600</CheckingAccount>
+    <KBK>00000000000000000130</KBK>
+    <OKTMO>57701000</OKTMO>
+    <LastName>123</LastName>
+    <Purpose>Выезд к заявителю, в т.ч. НДС</Purpose>
+    <ADDRESS />
+    <PASSPORT />
+    <Sum />
+  </qrCodeData>
+</ArrayOfQrCodeData>
